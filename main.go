@@ -1,7 +1,7 @@
 package main
 
 import (
-	"packer-plugin-comment/shell"
+	"packer-plugin-shell/shell"
 
 	"github.com/hashicorp/packer/packer/plugin"
 )
